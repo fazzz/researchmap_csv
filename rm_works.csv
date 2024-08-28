@@ -1,4 +1,4 @@
-﻿works
+﻿works,,,,,,,,,,,,,,,,,,,,
 アクション名,アクションタイプ,類似業績マージ優先度,ID,作品名(日本語),作品名(英語),発表者(日本語),発表者(英語),作品分類,年月(From),年月(To),発表場所(日本語),発表場所(英語),発表内容(日本語),発表内容(英語),国際共著,DOI,URL,URL2,主要な業績かどうか,公開の有無
 insert,merge,null,47536191,"High Performance Computing のための Fortran-分子シミュレーションを例 にして 第二版",null,"[山守 優\, 松林 伸幸]",null,educational_materials,2019-01,null,"遊文舎, 大阪",null,null,null,null,null,null,null,false,disclosed
 insert,merge,null,47536192,"High Performance Computing のための Fortran-分子シミュレーションを例 にして",null,"[山守 優\, 松林 伸幸]",null,educational_materials,2016-03,null,"遊文舎, 大阪",null,null,null,null,null,null,null,false,disclosed

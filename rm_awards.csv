@@ -1,4 +1,4 @@
-﻿awards
+﻿awards,,,,,,,,,,,,,,,,,,,
 アクション名,アクションタイプ,類似業績マージ優先度,ID,賞名(日本語),賞名(英語),受賞者・グループ(日本語),受賞者・グループ(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),概要(日本語),概要(英語),受賞年月,受賞区分,受賞国・地域,URL,主要な業績かどうか,公開の有無
 insert,merge,null,47534111,優秀ポスター賞,"poster award","[山守 優]","[Yamamori Y.]","A New Free Energy Calculation Method using Multi-scale Simulation for Investigating the Mechanism of Conformational Change of Biomolecule","A New Free Energy Calculation Method using Multi-scale Simulation for Investigating the Mechanism of Conformational Change of Biomolecule","第14 回東京大学生命科学シンポジウム",null,null,null,2014-04-26,null,JPN,null,false,disclosed
 insert,merge,null,47534112,学生優秀発表賞受賞,"student presentation award","[山守 優]","[Yamamori Y.]","MUSTERMD : Temperature Accelerated MD とReplica 交換法を用 いたMulti Scale サンプリング手法の開発","MUSTERMD : development of multi scale sampling method combining Temperature Accelerated MD and Replica exchange method",分子シミュレーション討論会,null,null,null,2012-11-26,null,JPN,null,false,disclosed

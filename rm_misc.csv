@@ -1,4 +1,4 @@
-﻿misc
+﻿misc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 アクション名,アクションタイプ,類似業績マージ優先度,ID,タイトル(日本語),タイトル(英語),著者(日本語),著者(英語),担当区分,概要(日本語),概要(英語),出版者・発行元(日本語),出版者・発行元(英語),出版年月,誌名(日本語),誌名(英語),巻,号,開始ページ,終了ページ,記述言語,査読の有無,招待の有無,掲載種別,国際・国内誌,国際共著,DOI,ISSN,eISSN,URL,URL2,主要な業績かどうか,公開の有無
 insert,merge,null,47534569,"CENP–T 天然変性領域の翻訳後修飾が結合機構へ及ぼす影響の研究",null,"[山守 優]",null,[lead],null,null,東京大学情報基盤センター,null,2021,スーパーコンピューティングニュース,null,23,1,null,null,jpn,false,null,introduction_research_institution,false,false,null,null,null,null,null,false,disclosed
 insert,merge,null,47534570,タンパク質-リガンド複合体への共溶媒効果の系統的解析,null,"[山守 優]",null,[lead],null,null,東京大学情報基盤センター,null,2019,スーパーコンピューティングニュース,null,21,1,27,32,jpn,false,null,introduction_research_institution,false,false,null,null,null,null,null,false,disclosed
