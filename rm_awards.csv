@@ -1,4 +1,4 @@
-﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24,Column25,Column26,Column27,Column28,Column29,Column30
-books_etc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-アクション名,アクションタイプ,類似業績マージ優先度,ID,タイトル(日本語),タイトル(英語),担当区分,著者(翻訳者)(日本語),著者(翻訳者)(英語),原著者(日本語),原著者(英語),担当範囲(日本語),担当範囲(英語),出版者・発行元(日本語),出版者・発行元(英語),概要(日本語),概要(英語),出版年月,総ページ数,担当ページ,記述言語,査読の有無,著書種別,国際共著,DOI,ISBN,URL,URL2,主要な業績かどうか,公開の有無
-insertion,merge,,,立体構造可視化と解析のためのツール,,contributor,山守　優,,,,,,羊土社,,,,,,,jpn,,,,,,,,FALSE,closed
+﻿awards
+アクション名,アクションタイプ,類似業績マージ優先度,ID,賞名(日本語),賞名(英語),受賞者・グループ(日本語),受賞者・グループ(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),概要(日本語),概要(英語),受賞年月,受賞区分,受賞国・地域,URL,主要な業績かどうか,公開の有無
+insert,merge,null,47534111,優秀ポスター賞,"poster award","[山守 優]","[Yamamori Y.]","A New Free Energy Calculation Method using Multi-scale Simulation for Investigating the Mechanism of Conformational Change of Biomolecule","A New Free Energy Calculation Method using Multi-scale Simulation for Investigating the Mechanism of Conformational Change of Biomolecule","第14 回東京大学生命科学シンポジウム",null,null,null,2014-04-26,null,JPN,null,false,disclosed
+insert,merge,null,47534112,学生優秀発表賞受賞,"student presentation award","[山守 優]","[Yamamori Y.]","MUSTERMD : Temperature Accelerated MD とReplica 交換法を用 いたMulti Scale サンプリング手法の開発","MUSTERMD : development of multi scale sampling method combining Temperature Accelerated MD and Replica exchange method",分子シミュレーション討論会,null,null,null,2012-11-26,null,JPN,null,false,disclosed

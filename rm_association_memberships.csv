@@ -1,4 +1,4 @@
-﻿association_memberships
+﻿association_memberships,,,,,,,,,
 アクション名,アクションタイプ,類似業績マージ優先度,ID,所属学協会名(日本語),所属学協会名(英語),年月(From),年月(To),URL,主要な業績かどうか,公開の有無
 insert,merge,null,8971619,CBI(シービーアイ）学会,CHEM-BIO INFORMATICS SOCIETY,null,null,null,FALSE,disclosed
 insert,merge,null,8971618,日本蛋白質科学会,PROTEIN SCIENCE SOCIETY OF JAPAN,null,null,null,FALSE,disclosed
