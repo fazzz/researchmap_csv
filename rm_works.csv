@@ -1,0 +1,7 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20
+research_experience,,,,,,,,,,,,,,,,,,,
+アクション名,アクションタイプ,類似業績マージ優先度,ID,年月(From),年月(To),所属(日本語),所属(英語),部署(日本語),部署(英語),職名(日本語),職名(英語),職階,称号(日本語),称号(英語),備考(日本語),備考(英語),国・地域,主要な業績かどうか,公開の有無
+insert,merge,NULL,,Jan-14,Mar-15,東京大学,,分子細胞生物学研究所,,特任研究員,,,,,,,jpn,FALSE,disclose
+insert,merge,NULL,,Apr-15,Dec-17,大阪大学,,基礎工学研究科,,特任研究員,,,,,,,jpn,,
+insert,merge,NULL,,Jan-18,Mar-20,産業技術総合研究所,,人工知能研究センター,,特任研究員,,,,,,,jpn,,
+insert,merge,NULL,,Mar-20,,産業技術総合研究所,,人工知能研究センター,,研究員,,,,,,,jpn,,
