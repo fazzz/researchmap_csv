@@ -1,2 +1,3 @@
-﻿research_interests
+﻿research_interests,,,,,,
 アクション名,アクションタイプ,類似業績マージ優先度,ID,キーワード(日本語),キーワード(英語),主要な業績かどうか,公開の有無
+insert,merge,,,分子動力学シミュレーション,MD simulation,False,disclosed
